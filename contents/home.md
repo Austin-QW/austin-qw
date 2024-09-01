@@ -14,7 +14,3 @@ Exchange Student, King's University College at Western University, Canada, 2023-
 #### Research Interests
 
 Deep Learning, Artificial Intelligence, Large Language Model.
-
-#### Personal Interests
-
-Street Dance, Snowboarding, Piano
