@@ -1,4 +1,4 @@
-<!-- [![Austin-QW](https://img.shields.io/badge/Austin-QW-github-blue?logo=github)](https://github.com/Austin-QW) -->
+[![Austin-QW](https://img.shields.io/badge/Austin-QW-github-blue?logo=github)](https://github.com/Austin-QW)
 
 He is currently pursuing a Bachlor's Degree in Mathematics and Applied Mathematics, at Institute for Adavanced Study, Shenzhen University, China.
 
