@@ -1,3 +1,5 @@
+- Datawhale Outstanding Ambassador (Top 5%), 2024
+
 - First-class Scholarship for SZU Outstanding & Innovative Talents (4/64), 2023.
 
 - Top Ten Outstanding Communist Youth League Member Award in SZU, 2023.
